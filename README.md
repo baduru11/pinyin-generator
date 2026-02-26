@@ -24,7 +24,7 @@ A desktop tool that annotates Chinese characters with their pinyin pronunciation
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/pinyin-generator.git
+git clone https://github.com/baduru11/pinyin-generator.git
 cd pinyin-generator
 python pinyin_gen.py
 ```
