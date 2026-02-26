@@ -1,0 +1,3 @@
+[submodule "pinyin_data"]
+	path = pinyin_data
+	url = https://github.com/xiaohk/pinyin_data.git
